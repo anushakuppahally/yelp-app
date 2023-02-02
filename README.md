@@ -10,8 +10,8 @@ cd ~/Desktop/spotify-api-project/
 Use Anaconda to create and activate a new virtual environment, perhaps called "yelp-env":
 
 ```
-conda create -n spotify-env python=3.8
-conda activate spotify-env
+conda create -n yelp-env python=3.8
+conda activate yelp-env
 ```
 
 Then, within an active virtual environment, install package dependencies:
