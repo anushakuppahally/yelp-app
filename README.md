@@ -4,7 +4,7 @@
 Create a copy of this and clone/download to your local computer. Then, navigate there from the command-line.
 
 ```
-cd ~/Desktop/spotify-api-project/
+cd ~/Desktop/yelp-app/
 ```
 
 Use Anaconda to create and activate a new virtual environment, perhaps called "yelp-env":
