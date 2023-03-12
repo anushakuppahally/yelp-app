@@ -7,5 +7,7 @@ jupyter
 google.cloud #connect to bq
 numpy
 pathlib #file path
-spacy==3.2.0
-eng-spacysentiment
+spacy==3.2.0 #nlp
+eng-spacysentiment #ner
+fastapi #framework to build API
+uvicorn[standard] #Asynchronous Server Gateway Interface server
